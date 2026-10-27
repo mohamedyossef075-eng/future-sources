@@ -1,0 +1,332 @@
+[
+  {
+    "id": "catalog-001",
+    "name": "جبنة موزاريلا نباتى بلوك فيكتوريا 2.3كغم*4",
+    "category": "الجبن",
+    "price": 185,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "catalog-002",
+    "name": "جبنة موزاريلا بيرتو بلوك 2.3كغم*4",
+    "category": "الجبن",
+    "price": 170,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "catalog-003",
+    "name": "شاورما جريليو 2.5كغم*4",
+    "category": "الدجاج والشاورما",
+    "price": 165,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 3
+  },
+  {
+    "id": "catalog-004",
+    "name": "صدور دجاج جريليو 2.5كغم*4",
+    "category": "الدجاج والشاورما",
+    "price": 158,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 4
+  },
+  {
+    "id": "catalog-005",
+    "name": "صدور دجاج شيركيزوفو 2.5كغم*4",
+    "category": "الدجاج والشاورما",
+    "price": 200,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 5
+  },
+  {
+    "id": "catalog-006",
+    "name": "بطاطس هيفين بايتس 9*9 2.5كغم*4",
+    "category": "البطاطس",
+    "price": 52,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 6
+  },
+  {
+    "id": "catalog-007",
+    "name": "بطاطس فرايتو 2.5كغم*4",
+    "category": "البطاطس",
+    "price": 40,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 7
+  },
+  {
+    "id": "catalog-008",
+    "name": "بطاطس جولدن سفن بريميوم 2.5كغم*4",
+    "category": "البطاطس",
+    "price": 52,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 8
+  },
+  {
+    "id": "catalog-009",
+    "name": "فيليه دجاج سيارا عادى 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 251,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 9
+  },
+  {
+    "id": "catalog-010",
+    "name": "فيليه دجاج سيارا حار 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 256,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 10
+  },
+  {
+    "id": "catalog-011",
+    "name": "ستربس دجاج سيارا عادى 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 235,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 11
+  },
+  {
+    "id": "catalog-012",
+    "name": "ستربس دجاج سيارا حار 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 240,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 12
+  },
+  {
+    "id": "catalog-013",
+    "name": "ستربس دجاج مايدا عادى 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 139,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 13
+  },
+  {
+    "id": "catalog-014",
+    "name": "ستربس دجاج مايدا حار 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 145,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 14
+  },
+  {
+    "id": "catalog-015",
+    "name": "برجر دجاج سيارا بالبقسماط 840جم*8",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 115,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 15
+  },
+  {
+    "id": "catalog-016",
+    "name": "برجر دجاج سيارا بدون بقسماط 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 155,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 16
+  },
+  {
+    "id": "catalog-017",
+    "name": "مسحب دجاج سيارا عادى 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 180,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 17
+  },
+  {
+    "id": "catalog-018",
+    "name": "مسحب دجاج سيارا حار 1كيلو*10",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 185,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 18
+  },
+  {
+    "id": "catalog-019",
+    "name": "صدور دجاج سيارا 2كيلو*5",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 160,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 19
+  },
+  {
+    "id": "catalog-020",
+    "name": "نقانق الدجاج مايدا 300جم*24",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 54,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 20
+  },
+  {
+    "id": "catalog-021",
+    "name": "مفروم دجاج مايدا 400جم*20",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 44,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 21
+  },
+  {
+    "id": "catalog-022",
+    "name": "مفروم بقرى مايدا 400جم*20",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 48,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 22
+  },
+  {
+    "id": "catalog-023",
+    "name": "برجر بقرى سيارا بروفيشنال 1350جم*8",
+    "category": "منتجات الدجاج واللحوم",
+    "price": 175,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 23
+  },
+  {
+    "id": "catalog-024",
+    "name": "كاتشب جست باى ماما 8غم*1000",
+    "category": "الصوصات",
+    "price": 43,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 24
+  },
+  {
+    "id": "catalog-025",
+    "name": "مايونيز جالون ماما صوص 15% 3.78 لتر*4",
+    "category": "الصوصات",
+    "price": 76,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 25
+  },
+  {
+    "id": "catalog-026",
+    "name": "كاتشب جركن جست باى ماما 25% 5كيلو*4",
+    "category": "الصوصات",
+    "price": 66,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 26
+  },
+  {
+    "id": "catalog-027",
+    "name": "صلصة رانش ماما صوص 3.78 لتر*4",
+    "category": "الصوصات",
+    "price": 160,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 27
+  },
+  {
+    "id": "catalog-028",
+    "name": "افوكادو دوميك انصاص 500غم*16",
+    "category": "الخضروات والفواكه",
+    "price": 184,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 28
+  },
+  {
+    "id": "catalog-029",
+    "name": "رمان دوميك 1كغم*8",
+    "category": "الخضروات والفواكه",
+    "price": 65,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 29
+  },
+  {
+    "id": "catalog-030",
+    "name": "فراولة دوميك 1كغم*8",
+    "category": "الخضروات والفواكه",
+    "price": 44,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 30
+  },
+  {
+    "id": "catalog-031",
+    "name": "مانجا فيكتوريا توتابورى 1كغم*16",
+    "category": "الخضروات والفواكه",
+    "price": 104,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 31
+  },
+  {
+    "id": "catalog-032",
+    "name": "مانجا جولدن سفن 1كغم*16",
+    "category": "الخضروات والفواكه",
+    "price": 104,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 32
+  },
+  {
+    "id": "catalog-033",
+    "name": "جوافة دوميك 1كغم*16",
+    "category": "الخضروات والفواكه",
+    "price": 90,
+    "unit": "كرتون",
+    "description": "السعر استرشادي وقابل للتأكيد",
+    "active": true,
+    "sortOrder": 33
+  }
+]
